@@ -1,3 +1,3 @@
-print("This is " + "a good string")
+print(" " + "a good string")
 
 
