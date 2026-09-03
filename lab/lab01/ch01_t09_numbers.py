@@ -1,2 +1,2 @@
 cucumbers = 1
-price_
+price_per_cucumber "price_per_cucumber"
