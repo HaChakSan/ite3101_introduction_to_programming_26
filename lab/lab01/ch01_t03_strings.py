@@ -1,2 +1,2 @@
-prints ("Hello [your_name]")
+prints ("Hello " + "[your_name]")
 
