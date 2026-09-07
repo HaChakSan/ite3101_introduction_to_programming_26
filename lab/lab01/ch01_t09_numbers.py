@@ -1,4 +1,4 @@
-cucumbers = 100
+cucumbers = 1
 num_people = 6
 
 whole_cucumbers_per_person = cucumbers // num_people
