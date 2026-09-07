@@ -1,2 +1,2 @@
-haiku = """the
+haiku = """
 """
