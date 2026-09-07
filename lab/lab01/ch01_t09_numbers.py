@@ -1,3 +1,3 @@
 cucumbers = 1
 price_per_cucumber =3.25
-tot
+total_cost = cucumbers * price_per_cucumber
