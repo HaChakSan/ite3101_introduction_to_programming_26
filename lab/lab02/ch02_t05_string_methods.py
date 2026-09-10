@@ -1,2 +1,2 @@
-print = "Norwegian Blue"
+ "Norwegian Blue"
 print(len(parrot))
