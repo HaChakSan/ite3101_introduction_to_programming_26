@@ -1,2 +1,2 @@
-print =parrot "Norwegian Blue"
+print = "Norwegian Blue"
 print(len(parrot))
