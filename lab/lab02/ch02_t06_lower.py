@@ -1,3 +1,3 @@
 parrot = "Norwegian Blue"
 
-"parrot"
+"parrot"lower()
