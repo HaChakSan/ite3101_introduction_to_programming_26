@@ -1,2 +1,1 @@
-parrot = "Norwegian Blue"
-print(len(parrot))
+print = "Norwegian Blue"
