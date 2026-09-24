@@ -1,7 +1,7 @@
 # Create comparative statements as appropriate on the lines below!
 
 # Make me true!
-bool_one = 10< 5  # We already did this one for you!
+bool_one = 10 > 5  # We already did this one for you!
 
 # Make me false!
 bool_two = None
