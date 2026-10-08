@@ -1,4 +1,4 @@
-print("Welcome to the pig")
+print("Welcome to the Pig Lat")
 
 original = input("Enter a word: ")
 
