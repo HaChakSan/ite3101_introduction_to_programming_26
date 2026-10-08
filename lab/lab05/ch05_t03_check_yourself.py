@@ -1,4 +1,4 @@
-print("Pig Latin")
+print("Wele")
 
 original = input("Enter a word: ")
 
