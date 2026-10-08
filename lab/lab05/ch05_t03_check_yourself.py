@@ -1,4 +1,8 @@
-print('Welcome to the Pig Latin Translator!')
+print("Pig Latin")
 
-# Start coding here!
-original = input("Enter a word:")
+original = input("Enter a word: ")
+
+if len(original) > 0:
+    print(original)
+else:
+    print("empty")
