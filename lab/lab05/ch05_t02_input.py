@@ -1,4 +1,3 @@
-print('Welcome to the Pig Latin Translator!')
+print("Pig Latin")
 
-# Start coding here!
-input("original ")
+original = input("Enter a word: ")
