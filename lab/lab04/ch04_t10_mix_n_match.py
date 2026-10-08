@@ -13,4 +13,4 @@ bool_three = 1 == 1 and 1 == 2
 bool_four = 1 == 1 and 1 == 33
 
 # Make me true!
-bool_five = 101 == 101 and "A" == "aA"
+bool_five = 101 == 101 and "A" == "A"
