@@ -1,4 +1,4 @@
-print("Welcome to the Pig Latin Trans")
+print("Welcome to the Pig Latin Translator")
 
 original = input("Enter a word: ")
 
