@@ -1,6 +1,6 @@
-def one_good_turn(n: int):
-    return n + 1
+def power(base, exponent):  # Add your parameters here!
+    result = base ** exponent
+    print("%d to the power of %d is %d." % (base, exponent, result))
 
 
-def deserves_another(n: int):
-    return n + 2
+power(37, 4)  # Add your arguments here!
