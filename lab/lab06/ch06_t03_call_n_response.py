@@ -1,9 +1,6 @@
-def square(n: float) -> float:
-    """Returns the square of a number."""
-    squared = n ** 2
-    print("%d squared is %d." % (n, squared))
-    return squared
+def power(base, exponent):  # Add your parameters here!
+    result = base ** exponent
+    print("%d to the power of %d is %d." % (base, exponent, result))
 
-# Call the square function on line 10! Make sure to
-# include the number 10 between the parentheses.
-square(10)
+
+power(37, 4)  # Add your arguments here!
