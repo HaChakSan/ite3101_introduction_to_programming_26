@@ -5,4 +5,5 @@ webster = {
     "Dab": "A small amount."
 }
 
-# Add your code below!
+for word in webster:
+    print(webster[word])
