@@ -1,3 +1,2 @@
 lloyd = {
-    "name": ()
-}
+    "name": }
