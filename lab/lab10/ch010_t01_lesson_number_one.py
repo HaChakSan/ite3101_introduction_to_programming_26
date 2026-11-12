@@ -6,13 +6,13 @@ lloyd = {
 }
 alice = {
     "name": "Alice",
-    "homework": ,
-    "quizzes": ,
-    "tests": 
+    "homework": [],
+    "quizzes": [],
+    "tests": []
 }
 tyler = {
     "name": "Tyler",
-    "homework": ,
-    "quizzes": ,
-    "tests": 
+    "homework": [],
+    "quizzes": [],
+    "tests": []
 }
