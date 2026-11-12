@@ -1,3 +1,4 @@
 lloyd = {
-    "name": "" 
+    "name": "Loyd",
+    "homework" 
     }
