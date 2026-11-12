@@ -17,5 +17,6 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
-
-for i in students
+i = 0
+for i in students :
+    print
