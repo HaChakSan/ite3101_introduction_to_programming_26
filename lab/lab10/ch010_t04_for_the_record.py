@@ -19,4 +19,5 @@ tyler = {
 students = [lloyd, alice, tyler]
 i = 0
 for i in students :
-    print
+    print("name")
+    
