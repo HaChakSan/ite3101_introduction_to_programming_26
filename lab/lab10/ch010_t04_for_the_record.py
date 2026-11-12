@@ -17,7 +17,8 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
-i = 0
-for i in students :
-    print("name")
-    
+for student in students:
+    print(f"Student Name: {student['name']}")
+    print(f"  - Homework: {student['homework']}")
+    print(f"  - Quizzes:  {student['quizzes']}")
+    print(f"  - Tests:    {student['tests']}")
