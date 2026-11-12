@@ -17,4 +17,5 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
-for i in 
+
+for i in students
