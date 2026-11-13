@@ -17,7 +17,7 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-# Add your function below!
+
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
